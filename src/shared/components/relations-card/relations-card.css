@@ -1,0 +1,43 @@
+.relations-card-container-inner {
+  margin-right: 2rem;
+}
+.relations-info {
+  display: flex;
+  flex-direction: column;
+}
+.relations-card {
+  width: 9rem;
+  height: 7rem;
+}
+.relations-card {
+  width: 9rem;
+  height: 7rem;
+  margin-bottom: 4rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0.0625rem solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+.relations-card-title {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 0.0625rem solid rgba(0, 0, 0, 0.125);
+}
+.relations-card-body {
+  flex: 1 1 auto;
+  min-height: 0.0625rem;
+  padding: 1.25rem;
+  background-color: #f8f9fa;
+}
+.relations-card-body-text {
+  font-weight: 500;
+  line-height: 1.2;
+  font-size: 1.25rem;
+  margin-bottom: 0;
+}
