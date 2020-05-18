@@ -1,0 +1,56 @@
+.delete-or-edit-object {
+  display: flex;
+}
+#remove-object {
+  margin-right: 2rem;
+}
+#remove-object,
+#edit-object {
+  cursor: pointer;
+}
+.card-container-inner {
+  margin: 2rem;
+}
+.card {
+  width: 22rem;
+  margin-bottom: 4rem;
+  height: 11rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0.0625rem solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
+.card-header-with-icons {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 0.0625rem solid;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 0.0625rem solid rgba(0, 0, 0, 0.125);
+}
+.card-body {
+  flex: 1 1 auto;
+  min-height: 0.0625rem;
+  padding: 1.25rem;
+  background-color: #f8f9fa;
+}
+.card-body-with-title {
+  font-weight: 500;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+}
+.card-title {
+  margin-bottom: 0;
+}
+@media (max-width: 60.313rem) {
+  .card-container-inner {
+    margin: auto;
+  }
+}
