@@ -9,6 +9,9 @@ function App() {
       <div className="header-container-outer">
         <Header />
       </div>
+      <div className="dashboard-container-outer">
+        <ObjectsDashboard />
+      </div>
     </div>
   );
 }

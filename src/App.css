@@ -1,0 +1,9 @@
+.dashboard-container-outer {
+  margin-top: 2rem;
+  padding-left: 5.875rem;
+}
+@media (max-width: 60.313rem) {
+  .dashboard-container-outer {
+    padding-left: 0;
+  }
+}
