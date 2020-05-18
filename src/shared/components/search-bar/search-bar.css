@@ -1,0 +1,8 @@
+.search-bar-container-inner {
+  width: 70%;
+}
+@media (max-width: 60.31rem) {
+  .search-bar-container-inner {
+    width: 100%;
+  }
+}
