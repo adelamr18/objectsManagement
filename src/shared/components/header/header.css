@@ -1,0 +1,13 @@
+.navbar {
+  position: relative;
+  justify-content: center;
+}
+.header-toggle {
+  position: absolute;
+  right: 0.438rem;
+}
+@media (min-width: 62rem) {
+  .navbar-expand-lg .navbar-toggler {
+    display: block;
+  }
+}
