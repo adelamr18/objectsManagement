@@ -1,0 +1,38 @@
+[
+  {
+    "name": "20",
+    "description": "Bought on 2014-01-15.Located in the development office",
+    "type": "Desk",
+    "id": 1
+  },
+  {
+    "name": "Max",
+    "type": "Employee",
+    "description": "Entry date:25.05.2020",
+    "id": 2
+  },
+  {
+    "name": "T453",
+    "description": "Bought on 2014-01-15.Located in the development office",
+    "type": "Calculator",
+    "id": 3
+  },
+  {
+    "name": "Xhdl500",
+    "description": "Bought on 2014-01-15.Located in the development office",
+    "type": "Server",
+    "id": 4
+  },
+  {
+    "name": "238",
+    "description": "Bought on 2014-01-15.Located in the development office",
+    "type": "Desk",
+    "id": 5
+  },
+  {
+    "name": "T54322",
+    "description": "Bought on 2014-01-15.Located in the development office",
+    "type": "Keyboard",
+    "id": 5
+  }
+]
