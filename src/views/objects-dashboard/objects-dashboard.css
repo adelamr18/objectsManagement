@@ -1,0 +1,22 @@
+.cards-container-outer {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+}
+.add-object-container {
+  text-align: right;
+  margin-right: 0.3rem;
+}
+#add-button {
+  width: 3.125rem;
+  cursor: pointer;
+}
+.search-bar-container-outer {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 60.313rem) {
+  .search-bar-container-outer {
+    padding: 1rem;
+  }
+}
