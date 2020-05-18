@@ -1,0 +1,8 @@
+.relations-container-with-title {
+  display: block;
+}
+.relations-card-container-outer {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
